@@ -1,0 +1,971 @@
+{
+    "chanollili": [
+        {
+            "weeks": "Mon",
+            "hour": "00",
+            "value": 0.6
+        },
+        {
+            "weeks": "Mon",
+            "hour": "01",
+            "value": 0.2
+        },
+        {
+            "weeks": "Mon",
+            "hour": "04",
+            "value": 0.2
+        },
+        {
+            "weeks": "Mon",
+            "hour": "05",
+            "value": 0.2
+        },
+        {
+            "weeks": "Mon",
+            "hour": "07",
+            "value": 0.2
+        },
+        {
+            "weeks": "Mon",
+            "hour": "09",
+            "value": 0.2
+        },
+        {
+            "weeks": "Mon",
+            "hour": "10",
+            "value": 0.6
+        },
+        {
+            "weeks": "Mon",
+            "hour": "11",
+            "value": 1
+        },
+        {
+            "weeks": "Mon",
+            "hour": "12",
+            "value": 0.2
+        },
+        {
+            "weeks": "Mon",
+            "hour": "13",
+            "value": 0.4
+        },
+        {
+            "weeks": "Mon",
+            "hour": "14",
+            "value": 0.8
+        },
+        {
+            "weeks": "Mon",
+            "hour": "15",
+            "value": 0.4
+        },
+        {
+            "weeks": "Mon",
+            "hour": "16",
+            "value": 0.2
+        },
+        {
+            "weeks": "Mon",
+            "hour": "17",
+            "value": 0.8
+        },
+        {
+            "weeks": "Mon",
+            "hour": "18",
+            "value": 0.4
+        },
+        {
+            "weeks": "Mon",
+            "hour": "20",
+            "value": 0.6
+        },
+        {
+            "weeks": "Mon",
+            "hour": "21",
+            "value": 1.6
+        },
+        {
+            "weeks": "Mon",
+            "hour": "22",
+            "value": 0.2
+        },
+        {
+            "weeks": "Mon",
+            "hour": "23",
+            "value": 0.4
+        },
+        {
+            "weeks": "Tue",
+            "hour": "00",
+            "value": 0.6
+        },
+        {
+            "weeks": "Tue",
+            "hour": "08",
+            "value": 0.8
+        },
+        {
+            "weeks": "Tue",
+            "hour": "09",
+            "value": 0.2
+        },
+        {
+            "weeks": "Tue",
+            "hour": "11",
+            "value": 0.6
+        },
+        {
+            "weeks": "Tue",
+            "hour": "12",
+            "value": 0.8
+        },
+        {
+            "weeks": "Tue",
+            "hour": "13",
+            "value": 1.4
+        },
+        {
+            "weeks": "Tue",
+            "hour": "14",
+            "value": 0.4
+        },
+        {
+            "weeks": "Tue",
+            "hour": "15",
+            "value": 0.2
+        },
+        {
+            "weeks": "Tue",
+            "hour": "16",
+            "value": 0.2
+        },
+        {
+            "weeks": "Tue",
+            "hour": "17",
+            "value": 0.2
+        },
+        {
+            "weeks": "Tue",
+            "hour": "20",
+            "value": 0.4
+        },
+        {
+            "weeks": "Tue",
+            "hour": "22",
+            "value": 1.2
+        },
+        {
+            "weeks": "Tue",
+            "hour": "23",
+            "value": 0.6
+        },
+        {
+            "weeks": "Wed",
+            "hour": "00",
+            "value": 1.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "01",
+            "value": 0.6
+        },
+        {
+            "weeks": "Wed",
+            "hour": "02",
+            "value": 0.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "08",
+            "value": 0.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "10",
+            "value": 0.4
+        },
+        {
+            "weeks": "Wed",
+            "hour": "11",
+            "value": 1.8
+        },
+        {
+            "weeks": "Wed",
+            "hour": "12",
+            "value": 0.6
+        },
+        {
+            "weeks": "Wed",
+            "hour": "13",
+            "value": 0.6
+        },
+        {
+            "weeks": "Wed",
+            "hour": "14",
+            "value": 0.8
+        },
+        {
+            "weeks": "Wed",
+            "hour": "17",
+            "value": 0.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "19",
+            "value": 0.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "20",
+            "value": 0.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "21",
+            "value": 0.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "22",
+            "value": 0.4
+        },
+        {
+            "weeks": "Wed",
+            "hour": "23",
+            "value": 0.8
+        },
+        {
+            "weeks": "Thu",
+            "hour": "01",
+            "value": 0.2
+        },
+        {
+            "weeks": "Thu",
+            "hour": "08",
+            "value": 0.2
+        },
+        {
+            "weeks": "Thu",
+            "hour": "09",
+            "value": 0.2
+        },
+        {
+            "weeks": "Thu",
+            "hour": "10",
+            "value": 1.2
+        },
+        {
+            "weeks": "Thu",
+            "hour": "11",
+            "value": 0.2
+        },
+        {
+            "weeks": "Thu",
+            "hour": "13",
+            "value": 2.2
+        },
+        {
+            "weeks": "Thu",
+            "hour": "14",
+            "value": 0.4
+        },
+        {
+            "weeks": "Thu",
+            "hour": "15",
+            "value": 0.6
+        },
+        {
+            "weeks": "Thu",
+            "hour": "17",
+            "value": 0.2
+        },
+        {
+            "weeks": "Thu",
+            "hour": "18",
+            "value": 1
+        },
+        {
+            "weeks": "Thu",
+            "hour": "19",
+            "value": 0.2
+        },
+        {
+            "weeks": "Thu",
+            "hour": "20",
+            "value": 0.4
+        },
+        {
+            "weeks": "Thu",
+            "hour": "21",
+            "value": 0.2
+        },
+        {
+            "weeks": "Thu",
+            "hour": "23",
+            "value": 0.4
+        },
+        {
+            "weeks": "Fri",
+            "hour": "00",
+            "value": 1.2
+        },
+        {
+            "weeks": "Fri",
+            "hour": "01",
+            "value": 0.6
+        },
+        {
+            "weeks": "Fri",
+            "hour": "05",
+            "value": 0.2
+        },
+        {
+            "weeks": "Fri",
+            "hour": "06",
+            "value": 0.6
+        },
+        {
+            "weeks": "Fri",
+            "hour": "07",
+            "value": 0.4
+        },
+        {
+            "weeks": "Fri",
+            "hour": "11",
+            "value": 1
+        },
+        {
+            "weeks": "Fri",
+            "hour": "12",
+            "value": 0.8
+        },
+        {
+            "weeks": "Fri",
+            "hour": "13",
+            "value": 0.6
+        },
+        {
+            "weeks": "Fri",
+            "hour": "14",
+            "value": 0.4
+        },
+        {
+            "weeks": "Fri",
+            "hour": "15",
+            "value": 0.2
+        },
+        {
+            "weeks": "Fri",
+            "hour": "17",
+            "value": 0.6
+        },
+        {
+            "weeks": "Fri",
+            "hour": "18",
+            "value": 0.6
+        },
+        {
+            "weeks": "Fri",
+            "hour": "19",
+            "value": 0.4
+        },
+        {
+            "weeks": "Fri",
+            "hour": "20",
+            "value": 0.6
+        },
+        {
+            "weeks": "Fri",
+            "hour": "21",
+            "value": 1
+        },
+        {
+            "weeks": "Fri",
+            "hour": "22",
+            "value": 0.6
+        },
+        {
+            "weeks": "Fri",
+            "hour": "23",
+            "value": 0.4
+        },
+        {
+            "weeks": "Sat",
+            "hour": "00",
+            "value": 0.6
+        },
+        {
+            "weeks": "Sat",
+            "hour": "01",
+            "value": 0.4
+        },
+        {
+            "weeks": "Sat",
+            "hour": "07",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sat",
+            "hour": "10",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sat",
+            "hour": "11",
+            "value": 1
+        },
+        {
+            "weeks": "Sat",
+            "hour": "12",
+            "value": 0.6
+        },
+        {
+            "weeks": "Sat",
+            "hour": "13",
+            "value": 1.8
+        },
+        {
+            "weeks": "Sat",
+            "hour": "14",
+            "value": 0.8
+        },
+        {
+            "weeks": "Sat",
+            "hour": "15",
+            "value": 0.6
+        },
+        {
+            "weeks": "Sat",
+            "hour": "17",
+            "value": 0.4
+        },
+        {
+            "weeks": "Sat",
+            "hour": "18",
+            "value": 0.6
+        },
+        {
+            "weeks": "Sat",
+            "hour": "19",
+            "value": 0.4
+        },
+        {
+            "weeks": "Sat",
+            "hour": "20",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sat",
+            "hour": "21",
+            "value": 0.4
+        },
+        {
+            "weeks": "Sat",
+            "hour": "22",
+            "value": 0.8
+        },
+        {
+            "weeks": "Sat",
+            "hour": "23",
+            "value": 0.8
+        },
+        {
+            "weeks": "Sun",
+            "hour": "00",
+            "value": 2
+        },
+        {
+            "weeks": "Sun",
+            "hour": "01",
+            "value": 1
+        },
+        {
+            "weeks": "Sun",
+            "hour": "02",
+            "value": 1
+        },
+        {
+            "weeks": "Sun",
+            "hour": "03",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sun",
+            "hour": "06",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sun",
+            "hour": "07",
+            "value": 0.6
+        },
+        {
+            "weeks": "Sun",
+            "hour": "08",
+            "value": 0.4
+        },
+        {
+            "weeks": "Sun",
+            "hour": "09",
+            "value": 0.8
+        },
+        {
+            "weeks": "Sun",
+            "hour": "11",
+            "value": 1.2
+        },
+        {
+            "weeks": "Sun",
+            "hour": "12",
+            "value": 0.4
+        },
+        {
+            "weeks": "Sun",
+            "hour": "13",
+            "value": 0.6
+        },
+        {
+            "weeks": "Sun",
+            "hour": "14",
+            "value": 1.2
+        },
+        {
+            "weeks": "Sun",
+            "hour": "15",
+            "value": 0.6
+        },
+        {
+            "weeks": "Sun",
+            "hour": "16",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sun",
+            "hour": "17",
+            "value": 0.4
+        },
+        {
+            "weeks": "Sun",
+            "hour": "18",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sun",
+            "hour": "19",
+            "value": 0.8
+        },
+        {
+            "weeks": "Sun",
+            "hour": "21",
+            "value": 1.2
+        },
+        {
+            "weeks": "Sun",
+            "hour": "22",
+            "value": 0.6
+        },
+        {
+            "weeks": "Sun",
+            "hour": "23",
+            "value": 0.8
+        }
+    ],
+    "cross5566": [
+        {
+            "weeks": "Mon",
+            "hour": "03",
+            "value": 0.4
+        },
+        {
+            "weeks": "Mon",
+            "hour": "05",
+            "value": 0.2
+        },
+        {
+            "weeks": "Mon",
+            "hour": "08",
+            "value": 0.2
+        },
+        {
+            "weeks": "Mon",
+            "hour": "10",
+            "value": 0.6
+        },
+        {
+            "weeks": "Mon",
+            "hour": "11",
+            "value": 0.8
+        },
+        {
+            "weeks": "Mon",
+            "hour": "12",
+            "value": 2.4
+        },
+        {
+            "weeks": "Mon",
+            "hour": "13",
+            "value": 0.2
+        },
+        {
+            "weeks": "Mon",
+            "hour": "14",
+            "value": 3.2
+        },
+        {
+            "weeks": "Mon",
+            "hour": "15",
+            "value": 3.6
+        },
+        {
+            "weeks": "Mon",
+            "hour": "16",
+            "value": 0.4
+        },
+        {
+            "weeks": "Mon",
+            "hour": "17",
+            "value": 2.4
+        },
+        {
+            "weeks": "Tue",
+            "hour": "08",
+            "value": 0.2
+        },
+        {
+            "weeks": "Tue",
+            "hour": "11",
+            "value": 0.6
+        },
+        {
+            "weeks": "Tue",
+            "hour": "12",
+            "value": 1.2
+        },
+        {
+            "weeks": "Tue",
+            "hour": "14",
+            "value": 0.2
+        },
+        {
+            "weeks": "Tue",
+            "hour": "15",
+            "value": 0.4
+        },
+        {
+            "weeks": "Tue",
+            "hour": "18",
+            "value": 0.2
+        },
+        {
+            "weeks": "Tue",
+            "hour": "20",
+            "value": 0.6
+        },
+        {
+            "weeks": "Tue",
+            "hour": "21",
+            "value": 0.2
+        },
+        {
+            "weeks": "Tue",
+            "hour": "23",
+            "value": 8.8
+        },
+        {
+            "weeks": "Wed",
+            "hour": "00",
+            "value": 2.6
+        },
+        {
+            "weeks": "Wed",
+            "hour": "01",
+            "value": 2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "08",
+            "value": 0.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "09",
+            "value": 7
+        },
+        {
+            "weeks": "Wed",
+            "hour": "10",
+            "value": 2.6
+        },
+        {
+            "weeks": "Wed",
+            "hour": "11",
+            "value": 8.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "12",
+            "value": 3.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "14",
+            "value": 4.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "15",
+            "value": 3.6
+        },
+        {
+            "weeks": "Wed",
+            "hour": "16",
+            "value": 2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "17",
+            "value": 1.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "18",
+            "value": 0.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "19",
+            "value": 0.2
+        },
+        {
+            "weeks": "Wed",
+            "hour": "20",
+            "value": 0.4
+        },
+        {
+            "weeks": "Wed",
+            "hour": "22",
+            "value": 0.6
+        },
+        {
+            "weeks": "Wed",
+            "hour": "23",
+            "value": 0.4
+        },
+        {
+            "weeks": "Thu",
+            "hour": "08",
+            "value": 0.2
+        },
+        {
+            "weeks": "Thu",
+            "hour": "09",
+            "value": 0.2
+        },
+        {
+            "weeks": "Thu",
+            "hour": "10",
+            "value": 0.4
+        },
+        {
+            "weeks": "Thu",
+            "hour": "12",
+            "value": 1
+        },
+        {
+            "weeks": "Thu",
+            "hour": "16",
+            "value": 0.4
+        },
+        {
+            "weeks": "Thu",
+            "hour": "18",
+            "value": 0.2
+        },
+        {
+            "weeks": "Thu",
+            "hour": "19",
+            "value": 0.2
+        },
+        {
+            "weeks": "Fri",
+            "hour": "00",
+            "value": 1
+        },
+        {
+            "weeks": "Fri",
+            "hour": "01",
+            "value": 0.2
+        },
+        {
+            "weeks": "Fri",
+            "hour": "05",
+            "value": 0.2
+        },
+        {
+            "weeks": "Fri",
+            "hour": "12",
+            "value": 0.4
+        },
+        {
+            "weeks": "Fri",
+            "hour": "13",
+            "value": 0.2
+        },
+        {
+            "weeks": "Fri",
+            "hour": "17",
+            "value": 0.6
+        },
+        {
+            "weeks": "Fri",
+            "hour": "18",
+            "value": 0.8
+        },
+        {
+            "weeks": "Fri",
+            "hour": "19",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sat",
+            "hour": "00",
+            "value": 1
+        },
+        {
+            "weeks": "Sat",
+            "hour": "01",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sat",
+            "hour": "10",
+            "value": 1.2
+        },
+        {
+            "weeks": "Sat",
+            "hour": "11",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sat",
+            "hour": "12",
+            "value": 0.8
+        },
+        {
+            "weeks": "Sat",
+            "hour": "13",
+            "value": 3.4
+        },
+        {
+            "weeks": "Sat",
+            "hour": "16",
+            "value": 1.8
+        },
+        {
+            "weeks": "Sat",
+            "hour": "17",
+            "value": 1.2
+        },
+        {
+            "weeks": "Sat",
+            "hour": "19",
+            "value": 0.4
+        },
+        {
+            "weeks": "Sat",
+            "hour": "20",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sat",
+            "hour": "21",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sat",
+            "hour": "22",
+            "value": 0.6
+        },
+        {
+            "weeks": "Sat",
+            "hour": "23",
+            "value": 0.6
+        },
+        {
+            "weeks": "Sun",
+            "hour": "00",
+            "value": 2.4
+        },
+        {
+            "weeks": "Sun",
+            "hour": "01",
+            "value": 3.6
+        },
+        {
+            "weeks": "Sun",
+            "hour": "05",
+            "value": 0.4
+        },
+        {
+            "weeks": "Sun",
+            "hour": "06",
+            "value": 0.6
+        },
+        {
+            "weeks": "Sun",
+            "hour": "07",
+            "value": 0.8
+        },
+        {
+            "weeks": "Sun",
+            "hour": "09",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sun",
+            "hour": "10",
+            "value": 1.6
+        },
+        {
+            "weeks": "Sun",
+            "hour": "11",
+            "value": 0.8
+        },
+        {
+            "weeks": "Sun",
+            "hour": "12",
+            "value": 0.4
+        },
+        {
+            "weeks": "Sun",
+            "hour": "13",
+            "value": 1.2
+        },
+        {
+            "weeks": "Sun",
+            "hour": "14",
+            "value": 0.4
+        },
+        {
+            "weeks": "Sun",
+            "hour": "15",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sun",
+            "hour": "16",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sun",
+            "hour": "19",
+            "value": 0.2
+        },
+        {
+            "weeks": "Sun",
+            "hour": "22",
+            "value": 0.4
+        }
+    ]
+}
